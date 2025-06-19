@@ -6,7 +6,7 @@ namespace WinFormsDemo
 {
     public partial class Main : Form
     {
-        string connection = "Host=localhost;Port=5432;Username=postgres;Password=13795272;Database=devTeste";
+        string connection = "Host=localhost;Port=5432;Username=postgres;Password=senha;Database=devTeste";
         public Main()
         {
             InitializeComponent();
